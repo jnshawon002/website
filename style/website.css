@@ -89,3 +89,13 @@ nav a {
     font-size: 18px;
     color: grey;
 }
+.about-info{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.information{
+    font-size: larger;
+}
