@@ -99,3 +99,11 @@ nav a {
 .information{
     font-size: larger;
 }
+#what{
+    text-align: center;
+    padding: 30px 150px;
+}
+.skill{
+    display: flex;
+    justify-content: space-around;
+}
