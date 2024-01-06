@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .mary{
     color: red;
@@ -30,5 +31,18 @@ nav a{
     border-radius: 5px;
     color: aliceblue;
     border: 0;
-    font-size: 20px;
+    font-size: 20px;;
+
+}
+.header{
+    background-color:antiquewhite;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.jpg{
+
 }
