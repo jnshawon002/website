@@ -1,0 +1,34 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mary{
+    color: red;
+}
+h3{
+    font-size: 45px;
+    font-weight: 808px;
+    font-style: normal;
+    line-height: normal;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: indigo;
+}
+.btn{
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: aliceblue;
+    border: 0;
+    font-size: 20px;
+}
